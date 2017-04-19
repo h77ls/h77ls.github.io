@@ -1,0 +1,40 @@
+a, p, h4 {
+    font-family:"Trebuchet", Helvetica, sans-serif;
+}
+body {
+    background-color:#bbbbbb;
+}
+nav {
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#333333;
+}
+.NavBar a {
+    float:right;
+    display:block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-family:"Trebuchet", Helvetica, sans-serif;
+}
+nav a:hover {
+    background-color:#222222;
+}
+#Page {
+    background-color:#333344;
+}
+#Page:hover {
+    background-color:#222233;
+}
+.thumbnail {
+    height:auto;
+    width:100px;
+}
+.title {
+    font-weight:bold;
+}
+p {
+    color:#111122;
+}
