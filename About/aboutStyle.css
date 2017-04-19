@@ -1,0 +1,40 @@
+h3, a, p, .downloads {
+    font-family:"Trebuchet", Helvetica, sans-serif;
+}
+body {
+    background-color:#bbbbbb;
+}
+nav {
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#333333;
+}
+.NavBar a {
+    float:right;
+    display:block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-family:"Trebuchet", Helvetica, sans-serif;
+}
+nav a:hover {
+    background-color:#222222;
+}
+#Page {
+    background-color:#333344;
+}
+#Page:hover {
+    background-color:#222233;
+}
+.wikis a, .downloads a {
+    text-decoration:none;
+    color:#333388;
+}
+.wikis a:hover, .downloads a:hover {
+    color:#111155;
+}
+.wikis a:active, .downloads a:active {
+    color:#777777;
+}
